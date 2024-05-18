@@ -1,0 +1,15 @@
+/workspaces/hierarquia_test/obj/Debug/net8.0/hierarquia_test.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/hierarquia_test/obj/Debug/net8.0/hierarquia_test.AssemblyInfoInputs.cache
+/workspaces/hierarquia_test/obj/Debug/net8.0/hierarquia_test.AssemblyInfo.cs
+/workspaces/hierarquia_test/obj/Debug/net8.0/hierarquia_test.csproj.CoreCompileInputs.cache
+/workspaces/hierarquia_test/obj/Debug/net8.0/hierarquia_test.sourcelink.json
+/workspaces/hierarquia_test/bin/Debug/net8.0/hierarquia_test
+/workspaces/hierarquia_test/bin/Debug/net8.0/hierarquia_test.deps.json
+/workspaces/hierarquia_test/bin/Debug/net8.0/hierarquia_test.runtimeconfig.json
+/workspaces/hierarquia_test/bin/Debug/net8.0/hierarquia_test.dll
+/workspaces/hierarquia_test/bin/Debug/net8.0/hierarquia_test.pdb
+/workspaces/hierarquia_test/obj/Debug/net8.0/hierarquia_test.dll
+/workspaces/hierarquia_test/obj/Debug/net8.0/refint/hierarquia_test.dll
+/workspaces/hierarquia_test/obj/Debug/net8.0/hierarquia_test.pdb
+/workspaces/hierarquia_test/obj/Debug/net8.0/hierarquia_test.genruntimeconfig.cache
+/workspaces/hierarquia_test/obj/Debug/net8.0/ref/hierarquia_test.dll
